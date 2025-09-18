@@ -1,0 +1,6 @@
+﻿Ticker;Company;Sector;Industry;Total Assets;Total Debt;Cash;Receivables;Debt/Assets;Cash/Assets;Receivables/Assets;Halal Status
+AAPL;Apple Inc.;Technology;Consumer Electronics;364980000000;106629000000;29943000000;33410000000;0,2900;0,0800;0,0900;Halal ✅
+MSFT;Microsoft Corporation;Technology;Software - Infrastructure;619003000000;60588000000;30242000000;69905000000;0,1000;0,0500;0,1100;Halal ✅
+GOOGL;Alphabet Inc.;Communication Services;Internet Content & Information;450256000000;25461000000;23466000000;52340000000;0,0600;0,0500;0,1200;Halal ✅
+JPM;JPMorgan Chase & Co.;Financial Services;Banks - Diversified;4002814000000;454311000000;469317000000;101223000000;0,1100;0,1200;0,0300;Halal ✅
+KO;The Coca-Cola Company;Consumer Defensive;Beverages - Non-Alcoholic;100549000000;44522000000;10828000000;3569000000;0,4400;0,1100;0,0400;Non-Halal ❌
